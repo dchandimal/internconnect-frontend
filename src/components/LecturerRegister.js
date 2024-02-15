@@ -89,7 +89,7 @@ class CreateLecturerComponent extends Component {
 
                         <div className="mb-3">
                             <label htmlFor="email">
-                                <strong>Lecturer Email</strong>
+                                <strong>Lecturer_Email</strong>
                             </label>
                             <input
                             type="text"
